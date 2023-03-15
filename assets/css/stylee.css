@@ -1,0 +1,24 @@
+body{
+    background-color: #fafafa !important;
+}
+.card{
+    background-color: #dcf2df !important;
+    border: thick double black !important;
+   
+}
+.card-body{
+    background-color:  #dcf2df!important;
+}
+.card-footer{
+    background-color: #dcf2df !important;
+    border: 1px solid black !important;
+}
+.btn{
+    background-color: #05233d !important;
+    color: #fbe4bc !important;
+    border: 1px solid black !important;
+}
+.form-control{
+    border: 1px solid black !important;
+}
+
